@@ -1,0 +1,6 @@
+v1
+    - First Implementation of Dual Speaker Systemless  mod for Galaxy S8
+v2
+    - Try to boost the earpiece slightly more
+v3
+    - Tone down gain, prevent crackle, best matched with Dolby Atmos Module at around 50-60% volume

@@ -1,0 +1,7 @@
+id=galaxys8dualspeaker
+name=Galaxy S8 Dual Speaker Mod Magisk Module
+version=v5-AQG5
+versionCode=5
+author=otonieru @ xda-developers
+description=Enable DualSpeaker/PseudoStereo SoundMod Systemless Way, preventing SafetyNet from being tripped
+template=4
